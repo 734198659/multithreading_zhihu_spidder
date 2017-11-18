@@ -28,13 +28,13 @@ Python2.7 爬取知乎
 
 项目文件介绍：
 ---------
-    main.py 是一个单进程单线程的爬虫<br>
-    multithreading.py 是一个单进程多线程的爬虫<br>
-    verification_code文件夹用于存放获取到的验证码<br>
-    中文验证码输入.txt 是要求输入倒立的中文验证码所对应的输入内容<br>
-    log文件夹原是用于存储日志<br>
-    json文件夹是上一个版本存储获取到的json数据<br>
-    html文件夹是上一个版本获取响应的网址内容<br>
+    1.main.py 是一个单进程单线程的爬虫<br>
+    2.multithreading.py 是一个单进程多线程的爬虫<br>
+    3.verification_code文件夹用于存放获取到的验证码<br>
+    4.中文验证码输入.txt 是要求输入倒立的中文验证码所对应的输入内容<br>
+    5.log文件夹原是用于存储日志<br>
+    6.json文件夹是上一个版本存储获取到的json数据<br>
+    7.html文件夹是上一个版本获取响应的网址内容<br>
 <br><br><br>
 
 其他：
