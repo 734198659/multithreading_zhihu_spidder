@@ -10,6 +10,22 @@ Python2.7 爬取知乎
        3）数据并未去重<br>
 <br><br><br>
 
+项目所需技术：
+---------
+    0.Python版本：
+        Python 2.7
+    1.数据库：
+        MySQL
+    2.json解析：
+        jsonpath
+        re
+    3.队列：
+        Queue模块
+    4.线程：
+        threading模块
+    5.urllib2
+<br><br><br>
+
 项目文件介绍：
 ---------
     main.py 是一个单进程单线程的爬虫<br>
