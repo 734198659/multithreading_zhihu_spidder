@@ -38,7 +38,8 @@ Python2.7 爬取知乎
     
     2.multithreading.py 是一个单进程多线程的爬虫<br>
     
-    3.verification_code文件夹用于存放获取到的验证码<br>
+    3.verification_code文件夹用于存放获取到的验证码
+    
     
     4.中文验证码输入.txt 是要求输入倒立的中文验证码所对应的输入内容<br>
     
