@@ -12,18 +12,18 @@ Python2.7 爬取知乎
 
 项目所需技术：
 ---------
-    0.Python版本：<br>
+    1.Python版本：<br>
          Python 2.7<br>
-    1.数据库：<br>
-         MySQL<br>
-    2.json解析：<br>
+    2.数据库：<br>
+         mysql数据库
+    3.json解析：<br>
          jsonpath<br>
          re<br>
-    3.队列：<br>
+    4.队列：<br>
          Queue模块<br>
-    4.线程：<br>
+    5.线程：<br>
          threading模块<br>
-    5.urllib2
+    6.urllib2
 <br><br><br>
 
 项目文件介绍：
